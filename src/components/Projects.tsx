@@ -7,14 +7,14 @@ export function Projects() {
       title: "POS",
       description:
         "A fiscalization system for retail businesses that simplifies inventory, sales, and customer service while making sure everything complies with financial regulations.",
-      image: "../../public/assets/pos.png",
+      image: "https://github.com/Xhuljoo21/portofolio/blob/main/public/assets/pos.png?raw=true",
       technologies: ["React", "Bootstrap", "Redux", "Laravel", "MySQL"],
       website: "https://pos.webmarco.com/",
     },
     {
       title: "Mobileri Rada",
       description: "A sleek and modern furniture retail website.",
-      image: "../../public/assets/rada.png",
+      image: "https://github.com/Xhuljoo21/portofolio/blob/main/public/assets/rada.png?raw=true",
       technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
       website: "https://mobilerirada.al/",
     },
@@ -29,14 +29,14 @@ export function Projects() {
       title: "Markata Don Peshk",
       description:
         "A seafood restaurant website featuring product listings and contact inforamtion.",
-      image: "../../public/assets/markata.png",
+      image: "https://github.com/Xhuljoo21/portofolio/blob/main/public/assets/markata.png?raw=true",
       technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
       website: "https://markatadonpeshk.com/",
     },
     {
       title: "Marco Travel",
       description: "An international travel agency based in Albania.",
-      image: "../../public/assets/travel.png",
+      image: "https://github.com/Xhuljoo21/portofolio/blob/main/public/assets/travel.png?raw=true",
       technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
       website: "https://marcotravel.it/",
     },
@@ -44,7 +44,7 @@ export function Projects() {
       title: "Morse Code Translator App",
       description:
         "A lightweight application that converts text to Morse code and vice versa. Designed for learners and hobbyists to quickly experiment with Morse code translations.",
-      image: "../../public/assets/image.png",
+      image: "https://github.com/Xhuljoo21/portofolio/blob/main/public/assets/image.png?raw=true",
       technologies: ["React", "Tailwind CSS"],
       github: "https://github.com/Xhuljoo21/morse-translator",
       live: "https://morse-translator-alpha.vercel.app/",
