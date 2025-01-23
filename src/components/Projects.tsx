@@ -21,7 +21,7 @@ export function Projects() {
     {
       title: "AutoEno",
       description: "An automotive parts and accessories e-commerce platform.",
-      image: "../../public/assets/eno.png",
+      image: "https://github.com/Xhuljoo21/portofolio/blob/main/public/assets/eno.png?raw=true",
       technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
       website: "https://autoeno.al/",
     },
